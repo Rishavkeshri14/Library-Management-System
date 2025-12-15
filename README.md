@@ -56,3 +56,6 @@ Fine calculation
 Barcode/RFID integration
 Admin login system
 Web-based version
+
+GUI Application picture
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1fa56988-d266-44f0-a094-d5b1d98be50a" />
