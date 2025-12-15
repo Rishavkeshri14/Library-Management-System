@@ -58,4 +58,8 @@ Admin login system
 Web-based version
 
 GUI Application picture
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1fa56988-d266-44f0-a094-d5b1d98be50a" />
+<img width="1919" height="1022" alt="Image" src="https://github.com/user-attachments/assets/b33efae6-76bd-4cb5-a575-47b058d0fd3b" />
+
+database picture
+<img width="1478" height="751" alt="Image" src="https://github.com/user-attachments/assets/171e8cc7-bc50-4868-b5c3-3791d176614f" />
+
